@@ -107,7 +107,7 @@ SRR1705858.fastq.gz - 256586
 SRR1705859.fastq.gz - 233327  
 SRR1705860.fastq.gz - 249964  
 
-🤔 **Task:** *Take a rough estimate of the coverage in your samples*
+🤔 **Task:** *Take a rough estimate of the coverage in your samples*  
 ✅ **Answer:**  I did that. What should I have answered?
 
 # 6. Use VarScan to look for rare variants in the reference files.  
