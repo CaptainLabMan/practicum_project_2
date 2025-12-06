@@ -1,0 +1,10 @@
+alignments
+data
+mpileup
+reads
+refs
+scripts/vcfEffOnePerLine.pl
+vcf
+.DS_Store
+project_tree.txt
+roommate_0.001_variants.md
